@@ -1,10 +1,10 @@
 # Today Task
 
-- [ ] **Complete home screen**
-  - [ ] Header
+- [x] **Complete home screen**
+  - [x] Header
   - [x] Prevention
   - [x] Survey
-  - [ ] Refactor
+  - [x] Refactor
 - [ ] Add navigation Bottom 
   - [ ] Home
   - [ ] Statics
